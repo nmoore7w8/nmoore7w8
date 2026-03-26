@@ -10,6 +10,7 @@ I'm a cybersecurity enthusiast focused on offensive security, network analysis, 
 | [WebAudit](https://github.com/nmoore7w8/webaudit) | Web vulnerability scanner — XSS, SQLi, open redirects, sensitive file exposure | Python |
 | [SentinelWatch](https://github.com/nmoore7w8/sentinelwatch) | File integrity monitor with cryptographic baselines and watch mode | Python |
 | [CipherShield](https://github.com/nmoore7w8/ciphershield) | AES-256-GCM file encryption tool and encrypted password vault | Python |
+| [SSHPot](https://github.com/nmoore7w8/sshpot) | SSH honeypot that captures attacker credentials and generates threat intelligence reports | Python |
 
 ## Skills
 
