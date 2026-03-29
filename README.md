@@ -11,6 +11,7 @@ I'm a cybersecurity enthusiast focused on offensive security, network analysis, 
 | [SentinelWatch](https://github.com/nmoore7w8/sentinelwatch) | File integrity monitor with cryptographic baselines and watch mode | Python |
 | [CipherShield](https://github.com/nmoore7w8/ciphershield) | AES-256-GCM file encryption tool and encrypted password vault | Python |
 | [SSHPot](https://github.com/nmoore7w8/sshpot) | SSH honeypot that captures attacker credentials and generates threat intelligence reports | Python |
+| [LogWatch](https://github.com/nmoore7w8/logwatch) | SOC log analyzer — detects brute force, password spray, privilege escalation, and web attacks | Python |
 
 ## Skills
 
